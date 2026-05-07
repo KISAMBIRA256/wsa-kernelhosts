@@ -1,0 +1,2 @@
+RewriteEngine On
+RewriteRule ^old-page\.html$ /new-page.html [R=301,L]
