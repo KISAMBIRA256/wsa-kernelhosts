@@ -1,4 +1,5 @@
 <?php require_once 'db.php'; ?>
+<!-- Updated by KernelHosts Team -->
 <!DOCTYPE html>
 <html>
 <head>
