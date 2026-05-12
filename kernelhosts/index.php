@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Kernelhosts</title>
+    <title>Kernelhosts Servers</title>
     <style>
         body { font-family: Arial, sans-serif; max-width: 1000px; margin: 50px auto; padding: 20px; background: #f4f4f4; }
         h1 { color: #333; }
